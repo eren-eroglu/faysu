@@ -1,7 +1,7 @@
 import React from 'react';
 
 function About() {
-  return <h1>About Page</h1>;
+  return <h1 className='text-center'>HAKKIMIZDA</h1>;
 }
 
 export default About;
